@@ -25,7 +25,7 @@ title: Painting Progress:
 tagline: the Growth and Development of the McMichael Canadian Art Collection
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: Founded in 1966, the McMichael Canadian Art Collection in Kleinburg ON has been sharing Canadian art with the public for the past five decades. Join us on this episode of Painting Progress to uncover what it means to work with a Canadian collection mandate and how the Gallery has changed its approrach over time. 
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Alessia Spagnuolo
 
@@ -34,7 +34,7 @@ author: Alessia Spagnuolo
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: cbdemo4840_gh
+metadata: McMichael Spreadsheet
 
 ##########
 # Site/Organization Branding 
